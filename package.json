@@ -1,0 +1,14 @@
+{
+  "name": "project-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "gaus",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
